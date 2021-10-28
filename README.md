@@ -29,14 +29,14 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a>
-<img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/android.png?alt=media&token=f72525a6-9251-4c9c-becd-b3efdd6e391e'> </a>
-<a> <img width ='32px' align= 'center'  src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/java.png?alt=media&token=12717421-73a6-4f03-8d6d-ccdb9c2b4731'> </a>
-<a> <img width ='32px' align= 'center'  src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/kotlin-hero.svg?alt=media&token=fdd348d1-74b4-4c79-9f2d-920d69958ca7'> </a>
-<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/fire.png?alt=media&token=329ac5ee-6c2f-435f-9ab5-a4cc6f43099e'> </a>
-<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/api.png?alt=media&token=169c10c2-c8bd-4644-9c07-47b39ad75002'> </a>
-<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/data-list.png?alt=media&token=fe6a5ed2-5729-4863-ba35-f6ddb3fdea3c'> </a>
-<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/github%20(2).png?alt=media&token=784ddd34-4d92-43ee-9afe-ec5c3aafaf6c'> </a>
-<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/sql-server.png?alt=media&token=0ff3915c-b4ac-4b1b-a0d9-def09ea26fcf'> </a>
+<img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/android.png?alt=media&token=f72525a6-9251-4c9c-becd-b3efdd6e391e'/> </a>
+<a> <img width ='32px' align= 'center'  src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/java.png?alt=media&token=12717421-73a6-4f03-8d6d-ccdb9c2b4731'/> </a>
+<a> <img width ='32px' align= 'center'  src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/kotlin-hero.svg?alt=media&token=fdd348d1-74b4-4c79-9f2d-920d69958ca7'/> </a>
+<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/fire.png?alt=media&token=329ac5ee-6c2f-435f-9ab5-a4cc6f43099e'/> </a>
+<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/api.png?alt=media&token=169c10c2-c8bd-4644-9c07-47b39ad75002'/> </a>
+<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/data-list.png?alt=media&token=fe6a5ed2-5729-4863-ba35-f6ddb3fdea3c'/> </a>
+<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/github%20(2).png?alt=media&token=784ddd34-4d92-43ee-9afe-ec5c3aafaf6c'/> </a>
+<a> <img width ='32px' align= 'center' src ='https://firebasestorage.googleapis.com/v0/b/money-manager-2215d.appspot.com/o/sql-server.png?alt=media&token=0ff3915c-b4ac-4b1b-a0d9-def09ea26fcf'/> </a>
 
 
 
